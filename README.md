@@ -1,2 +1,3 @@
 # hello-world
-just anthor repository
+hii everyone
+I am ayushi.
